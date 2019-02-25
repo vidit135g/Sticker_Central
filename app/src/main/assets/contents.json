@@ -1,0 +1,1520 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.theabsolutecompany.stickercentral",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Ariana Grande",
+      "publisher": "Sticker Central",
+      "tray_image_file": "ar24.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ar1.webp"
+        },
+        {
+          "image_file": "ar2.webp"
+        },
+        {
+          "image_file": "ar3.webp"
+        },
+        {
+          "image_file": "ar4.webp"
+        },
+        {
+          "image_file": "ar5.webp"
+        },
+        {
+          "image_file": "ar6.webp"
+        },
+        {
+          "image_file": "ar7.webp"
+        },
+        {
+          "image_file": "ar8.webp"
+        },
+        {
+          "image_file": "ar9.webp"
+        },
+        {
+          "image_file": "ar10.webp"
+        },
+        {
+          "image_file": "ar11.webp"
+        },
+        {
+          "image_file": "ar12.webp"
+        },
+        {
+          "image_file": "ar13.webp"
+        },
+        {
+          "image_file": "ar14.webp"
+        },
+        {
+          "image_file": "ar15.webp"
+        },
+        {
+          "image_file": "ar16.webp"
+        },
+        {
+          "image_file": "ar17.webp"
+        },
+        {
+          "image_file": "ar18.webp"
+        },
+        {
+          "image_file": "ar19.webp"
+        },
+        {
+          "image_file": "ar20.webp"
+        },
+        {
+          "image_file": "ar21.webp"
+        },
+        {
+          "image_file": "ar22.webp"
+        },
+        {
+          "image_file": "ar23.webp"
+        },
+        {
+          "image_file": "ar24.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Bby Never Tell",
+      "publisher": "Sticker Central",
+      "tray_image_file": "bby30.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bby1.webp"
+        },
+        {
+          "image_file": "bby2.webp"
+        },
+        {
+          "image_file": "bby3.webp"
+        },
+        {
+          "image_file": "bby4.webp"
+        },
+        {
+          "image_file": "bby5.webp"
+        },
+        {
+          "image_file": "bby6.webp"
+        },
+        {
+          "image_file": "bby7.webp"
+        },
+        {
+          "image_file": "bby8.webp"
+        },
+        {
+          "image_file": "bby9.webp"
+        },
+        {
+          "image_file": "bby10.webp"
+        },
+        {
+          "image_file": "bby11.webp"
+        },
+        {
+          "image_file": "bby12.webp"
+        },
+        {
+          "image_file": "bby13.webp"
+        },
+        {
+          "image_file": "bby14.webp"
+        },
+        {
+          "image_file": "bby15.webp"
+        },
+        {
+          "image_file": "bby16.webp"
+        },
+        {
+          "image_file": "bby17.webp"
+        },
+        {
+          "image_file": "bby18.webp"
+        },
+        {
+          "image_file": "bby19.webp"
+        },
+        {
+          "image_file": "bby20.webp"
+        },
+        {
+          "image_file": "bby21.webp"
+        },
+        {
+          "image_file": "bby22.webp"
+        },
+        {
+          "image_file": "bby23.webp"
+        },
+        {
+          "image_file": "bby24.webp"
+        },
+        {
+          "image_file": "bby25.webp"
+        },
+        {
+          "image_file": "bby26.webp"
+        },
+        {
+          "image_file": "bby27.webp"
+        },
+      
+        {
+          "image_file": "bby28.webp"
+        },
+        {
+          "image_file": "bby29.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Criminal Racoon",
+      "publisher": "Sticker Central",
+      "tray_image_file": "rac10.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rac1.webp"
+        },
+        {
+          "image_file": "rac2.webp"
+        },
+        {
+          "image_file": "rac3.webp"
+        },
+        {
+          "image_file": "rac4.webp"
+        },
+        {
+          "image_file": "rac5.webp"
+        },
+        {
+          "image_file": "rac6.webp"
+        },
+        {
+          "image_file": "rac7.webp"
+        },
+        {
+          "image_file": "rac8.webp"
+        },
+        {
+          "image_file": "rac9.webp"
+        },
+        {
+          "image_file": "rac10.webp"
+        },
+        {
+          "image_file": "rac11.webp"
+        },
+        {
+          "image_file": "rac12.webp"
+        },
+        {
+          "image_file": "rac13.webp"
+        },
+        {
+          "image_file": "rac14.webp"
+        },
+        {
+          "image_file": "rac15.webp"
+        },
+        {
+          "image_file": "rac16.webp"
+        },
+        {
+          "image_file": "rac17.webp"
+        },
+        {
+          "image_file": "rac18.webp"
+        },
+        {
+          "image_file": "rac19.webp"
+        },
+        {
+          "image_file": "rac20.webp"
+        },
+        {
+          "image_file": "rac21.webp"
+        },
+        {
+          "image_file": "rac22.webp"
+        },
+        {
+          "image_file": "rac23.webp"
+        },
+        {
+          "image_file": "rac24.webp"
+        },
+        {
+          "image_file": "rac25.webp"
+        },
+        {
+          "image_file": "rac26.webp"
+        },
+        {
+          "image_file": "rac27.webp"
+        },
+        {
+          "image_file": "rac28.webp"
+        },
+        {
+          "image_file": "rac29.webp"
+        },
+        {
+          "image_file": "rac30.webp"
+        }
+      ]
+    },
+    
+    {
+      "identifier": "4",
+      "name": "Deadpool",
+      "publisher": "Sticker Central",
+      "tray_image_file": "dead7.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "dead1.webp"
+        },
+        {
+          "image_file": "dead2.webp"
+        },
+        {
+          "image_file": "dead3.webp"
+        },
+        {
+          "image_file": "dead4.webp"
+        },
+        {
+          "image_file": "dead5.webp"
+        },
+        {
+          "image_file": "dead6.webp"
+        },
+        {
+          "image_file": "dead7.webp"
+        },
+        {
+          "image_file": "dead8.webp"
+        },
+        {
+          "image_file": "dead9.webp"
+        },
+        {
+          "image_file": "dead10.webp"
+        },
+        {
+          "image_file": "dead11.webp"
+        },
+        {
+          "image_file": "dead12.webp"
+        },
+        {
+          "image_file": "dead13.webp"
+        },
+        {
+          "image_file": "dead14.webp"
+        },
+        {
+          "image_file": "dead15.webp"
+        },
+        {
+          "image_file": "dead16.webp"
+        },
+        {
+          "image_file": "dead17.webp"
+        },
+        {
+          "image_file": "dead18.webp"
+        },
+        {
+          "image_file": "dead19.webp"
+        },
+        {
+          "image_file": "dead20.webp"
+        },
+        {
+          "image_file": "dead21.webp"
+        },
+        {
+          "image_file": "dead22.webp"
+        },
+        {
+          "image_file": "dead23.webp"
+        },
+        {
+          "image_file": "dead24.webp"
+        },
+        {
+          "image_file": "dead25.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Elon Musk",
+      "publisher": "Sticker Central",
+      "tray_image_file": "el21.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "el1.webp"
+        },
+        {
+          "image_file": "el2.webp"
+        },
+        {
+          "image_file": "el3.webp"
+        },
+        {
+          "image_file": "el4.webp"
+        },
+        {
+          "image_file": "el5.webp"
+        },
+        {
+          "image_file": "el6.webp"
+        },
+        {
+          "image_file": "el7.webp"
+        },
+        {
+          "image_file": "el8.webp"
+        },
+        {
+          "image_file": "el9.webp"
+        },
+        {
+          "image_file": "el10.webp"
+        },
+        {
+          "image_file": "el11.webp"
+        },
+        {
+          "image_file": "el12.webp"
+        },
+        {
+          "image_file": "el13.webp"
+        },
+        {
+          "image_file": "el14.webp"
+        },
+        {
+          "image_file": "el15.webp"
+        },
+        {
+          "image_file": "el16.webp"
+        },
+        {
+          "image_file": "el17.webp"
+        },
+        {
+          "image_file": "el18.webp"
+        },
+        {
+          "image_file": "el19.webp"
+        },
+        {
+          "image_file": "el20.webp"
+        },
+        {
+          "image_file": "el21.webp"
+        },
+        {
+          "image_file": "el22.webp"
+        },
+        {
+          "image_file": "el23.webp"
+        },
+        {
+          "image_file": "el24.webp"
+        },
+        {
+          "image_file": "el25.webp"
+        },
+        {
+          "image_file": "el26.webp"
+        },
+        {
+          "image_file": "el27.webp"
+        },
+        {
+          "image_file": "el28.webp"
+        },
+
+        {
+          "image_file": "el29.webp"
+        },
+
+        {
+          "image_file": "el30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Harley Quinn",
+      "publisher": "Sticker Central",
+      "tray_image_file": "har6.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "har1.webp"
+        },
+        {
+          "image_file": "har2.webp"
+        },
+        {
+          "image_file": "har3.webp"
+        },
+        {
+          "image_file": "har4.webp"
+        },
+        {
+          "image_file": "har5.webp"
+        },
+        {
+          "image_file": "har6.webp"
+        },
+        {
+          "image_file": "har7.webp"
+        },
+        {
+          "image_file": "har8.webp"
+        },
+        {
+          "image_file": "har9.webp"
+        },
+        {
+          "image_file": "har10.webp"
+        },
+        {
+          "image_file": "har12.webp"
+        },
+        {
+          "image_file": "har13.webp"
+        },
+        {
+          "image_file": "har14.webp"
+        },
+        {
+          "image_file": "har15.webp"
+        },
+        {
+          "image_file": "har16.webp"
+        },
+        {
+          "image_file": "har17.webp"
+        },
+        {
+          "image_file": "har18.webp"
+        },
+        {
+          "image_file": "har19.webp"
+        },
+        {
+          "image_file": "har20.webp"
+        },
+        {
+          "image_file": "har21.webp"
+        },
+        {
+          "image_file": "har22.webp"
+        },
+        {
+          "image_file": "har23.webp"
+        },
+        {
+          "image_file": "har24.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Homer Simpson",
+      "publisher": "Sticker Central",
+      "tray_image_file": "homer9.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "homer1.webp"
+        },
+        {
+          "image_file": "homer2.webp"
+        },
+        {
+          "image_file": "homer3.webp"
+        },
+        {
+          "image_file": "homer4.webp"
+        },
+        {
+          "image_file": "homer5.webp"
+        },
+        {
+          "image_file": "homer6.webp"
+        },
+        {
+          "image_file": "homer7.webp"
+        },
+        {
+          "image_file": "homer8.webp"
+        },
+        {
+          "image_file": "homer9.webp"
+        },
+        {
+          "image_file": "homer10.webp"
+        },
+        {
+          "image_file": "homer11.webp"
+        },
+        {
+          "image_file": "homer12.webp"
+        },
+        {
+          "image_file": "homer13.webp"
+        },
+        {
+          "image_file": "homer14.webp"
+        },
+        {
+          "image_file": "homer15.webp"
+        },
+        {
+          "image_file": "homer16.webp"
+        },
+        {
+          "image_file": "homer17.webp"
+        },
+        {
+          "image_file": "homer18.webp"
+        },
+        {
+          "image_file": "homer19.webp"
+        },
+        {
+          "image_file": "homer20.webp"
+        },
+        {
+          "image_file": "homer21.webp"
+        },
+        {
+          "image_file": "homer22.webp"
+        },
+        {
+          "image_file": "homer23.webp"
+        },
+        {
+          "image_file": "homer24.webp"
+        },
+        {
+          "image_file": "homer25.webp"
+        },
+        {
+          "image_file": "homer26.webp"
+        },
+        {
+          "image_file": "homer27.webp"
+        },
+        {
+          "image_file": "homer28.webp"
+        },
+
+        {
+          "image_file": "homer29.webp"
+        },
+
+        {
+          "image_file": "homer30.webp"
+        }
+      ]
+    },
+    
+    {
+      "identifier": "8",
+      "name": "Love",
+      "publisher": "Sticker Central",
+      "tray_image_file": "val15.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "val1.webp"
+        },
+        {
+          "image_file": "val2.webp"
+        },
+        {
+          "image_file": "val3.webp"
+        },
+        {
+          "image_file": "val4.webp"
+        },
+        {
+          "image_file": "val5.webp"
+        },
+        {
+          "image_file": "val6.webp"
+        },
+        {
+          "image_file": "val7.webp"
+        },
+        {
+          "image_file": "val8.webp"
+        },
+        {
+          "image_file": "val9.webp"
+        },
+        {
+          "image_file": "val10.webp"
+        },
+        {
+          "image_file": "val11.webp"
+        },
+        {
+          "image_file": "val12.webp"
+        },
+        {
+          "image_file": "val13.webp"
+        },
+        {
+          "image_file": "val14.webp"
+        },
+        {
+          "image_file": "val15.webp"
+        },
+        {
+          "image_file": "val16.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "PUBG",
+      "publisher": "Sticker Central",
+      "tray_image_file": "pub4.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "pub1.webp"
+        },
+        {
+          "image_file": "pub2.webp"
+        },
+        {
+          "image_file": "pub3.webp"
+        },
+        {
+          "image_file": "pub4.webp"
+        },
+        {
+          "image_file": "pub5.webp"
+        },
+        {
+          "image_file": "pub6.webp"
+        },
+        {
+          "image_file": "pub7.webp"
+        },
+        {
+          "image_file": "pub8.webp"
+        },
+        {
+          "image_file": "pub9.webp"
+        },
+        {
+          "image_file": "pub10.webp"
+        },
+        {
+          "image_file": "pub11.webp"
+        },
+        {
+          "image_file": "pub12.webp"
+        },
+        {
+          "image_file": "pub13.webp"
+        },
+        {
+          "image_file": "pub14.webp"
+        },
+        {
+          "image_file": "pub15.webp"
+        },
+        {
+          "image_file": "pub16.webp"
+        },
+        {
+          "image_file": "pub17.webp"
+        },
+        {
+          "image_file": "pub18.webp"
+        },
+        {
+          "image_file": "pub19.webp"
+        },
+        {
+          "image_file": "pub20.webp"
+        },
+        {
+          "image_file": "pub21.webp"
+        },
+        {
+          "image_file": "pub22.webp"
+        },
+        {
+          "image_file": "pub23.webp"
+        },
+        {
+          "image_file": "pub24.webp"
+        },
+        {
+          "image_file": "pub25.webp"
+        },
+        {
+          "image_file": "pub26.webp"
+        },
+        {
+          "image_file": "pub27.webp"
+        },
+        {
+          "image_file": "pub28.webp"
+        },
+
+        {
+          "image_file": "pub29.webp"
+        },
+        {
+          "image_file": "pub30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Punstar",
+      "publisher": "Sticker Central",
+      "tray_image_file": "porn12.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "porn1.webp"
+        },
+        {
+          "image_file": "porn2.webp"
+        },
+        {
+          "image_file": "porn3.webp"
+        },
+        {
+          "image_file": "porn4.webp"
+        },
+        {
+          "image_file": "porn5.webp"
+        },
+        {
+          "image_file": "porn6.webp"
+        },
+        {
+          "image_file": "porn7.webp"
+        },
+        {
+          "image_file": "porn8.webp"
+        },
+        {
+          "image_file": "porn9.webp"
+        },
+        {
+          "image_file": "porn10.webp"
+        },
+        {
+          "image_file": "porn11.webp"
+        },
+        {
+          "image_file": "porn12.webp"
+        },
+        {
+          "image_file": "porn13.webp"
+        },
+        {
+          "image_file": "porn14.webp"
+        },
+        {
+          "image_file": "porn15.webp"
+        },
+        {
+          "image_file": "porn16.webp"
+        },
+        {
+          "image_file": "porn17.webp"
+        },
+        {
+          "image_file": "porn18.webp"
+        },
+        {
+          "image_file": "porn19.webp"
+        },
+        {
+          "image_file": "porn20.webp"
+        },
+        {
+          "image_file": "porn21.webp"
+        },
+        {
+          "image_file": "porn22.webp"
+        },
+        {
+          "image_file": "porn23.webp"
+        },
+        {
+          "image_file": "porn24.webp"
+        },
+        {
+          "image_file": "porn25.webp"
+        },
+        {
+          "image_file": "porn26.webp"
+        },
+        {
+          "image_file": "porn27.webp"
+        },
+        {
+          "image_file": "porn28.webp"
+        },
+
+        {
+          "image_file": "porn29.webp"
+        },
+
+        {
+          "image_file": "porn30.webp"
+        }
+      ]
+
+    },
+    {
+      "identifier": "11",
+      "name": "Rage Comics",
+      "publisher": "Sticker Central",
+      "tray_image_file": "tr22.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "tr1.webp"
+        },
+        {
+          "image_file": "tr2.webp"
+        },
+        {
+          "image_file": "tr3.webp"
+        },
+        {
+          "image_file": "tr4.webp"
+        },
+        {
+          "image_file": "tr5.webp"
+        },
+        {
+          "image_file": "tr6.webp"
+        },
+        {
+          "image_file": "tr7.webp"
+        },
+        {
+          "image_file": "tr8.webp"
+        },
+        {
+          "image_file": "tr9.webp"
+        },
+        {
+          "image_file": "tr10.webp"
+        },
+        {
+          "image_file": "tr11.webp"
+        },
+        {
+          "image_file": "tr12.webp"
+        },
+        {
+          "image_file": "tr13.webp"
+        },
+        {
+          "image_file": "tr14.webp"
+        },
+        {
+          "image_file": "tr15.webp"
+        },
+        {
+          "image_file": "tr16.webp"
+        },
+        {
+          "image_file": "tr17.webp"
+        },
+        {
+          "image_file": "tr18.webp"
+        },
+        {
+          "image_file": "tr19.webp"
+        },
+        {
+          "image_file": "tr20.webp"
+        },
+        {
+          "image_file": "tr21.webp"
+        },
+        {
+          "image_file": "tr22.webp"
+        },
+        {
+          "image_file": "tr23.webp"
+        },
+        {
+          "image_file": "tr24.webp"
+        },
+        {
+          "image_file": "tr25.webp"
+        },
+        {
+          "image_file": "tr26.webp"
+        },
+        {
+          "image_file": "tr27.webp"
+        },
+        {
+          "image_file": "tr28.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Scream",
+      "publisher": "Sticker Central",
+      "tray_image_file": "sc4.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sc1.webp"
+        },
+        {
+          "image_file": "sc2.webp"
+        },
+        {
+          "image_file": "sc3.webp"
+        },
+        {
+          "image_file": "sc4.webp"
+        },
+        {
+          "image_file": "sc5.webp"
+        },
+        {
+          "image_file": "sc6.webp"
+        },
+        {
+          "image_file": "sc7.webp"
+        },
+        {
+          "image_file": "sc8.webp"
+        },
+        {
+          "image_file": "sc9.webp"
+        },
+        {
+          "image_file": "sc10.webp"
+        },
+        {
+          "image_file": "sc11.webp"
+        },
+        {
+          "image_file": "sc12.webp"
+        },
+        {
+          "image_file": "sc13.webp"
+        },
+        {
+          "image_file": "sc14.webp"
+        },
+        {
+          "image_file": "sc15.webp"
+        },
+        {
+          "image_file": "sc16.webp"
+        },
+        {
+          "image_file": "sc17.webp"
+        },
+        {
+          "image_file": "sc18.webp"
+        },
+        {
+          "image_file": "sc19.webp"
+        },
+        {
+          "image_file": "sc20.webp"
+        },
+        {
+          "image_file": "sc21.webp"
+        },
+        {
+          "image_file": "sc22.webp"
+        },
+        {
+          "image_file": "sc23.webp"
+        },
+        {
+          "image_file": "sc24.webp"
+        },
+        {
+          "image_file": "sc25.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Spiderman",
+      "publisher": "Sticker Central",
+      "tray_image_file": "spidey1.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "spidey1.webp"
+        },
+        {
+          "image_file": "spidey2.webp"
+        },
+        {
+          "image_file": "spidey3.webp"
+        },
+        {
+          "image_file": "spidey4.webp"
+        },
+        {
+          "image_file": "spidey5.webp"
+        },
+        {
+          "image_file": "spidey6.webp"
+        },
+        {
+          "image_file": "spidey7.webp"
+        },
+        {
+          "image_file": "spidey8.webp"
+        },
+        {
+          "image_file": "spidey9.webp"
+        },
+        {
+          "image_file": "spidey10.webp"
+        },
+        {
+          "image_file": "spidey11.webp"
+        },
+        {
+          "image_file": "spidey12.webp"
+        },
+        {
+          "image_file": "spidey13.webp"
+        },
+        {
+          "image_file": "spidey14.webp"
+        },
+        {
+          "image_file": "spidey15.webp"
+        },
+        {
+          "image_file": "spidey16.webp"
+        },
+        {
+          "image_file": "spidey17.webp"
+        },
+        {
+          "image_file": "spidey18.webp"
+        },
+        {
+          "image_file": "spidey19.webp"
+        },
+        {
+          "image_file": "spidey20.webp"
+        },
+        {
+          "image_file": "spidey21.webp"
+        },
+        {
+          "image_file": "spidey23.webp"
+        },
+        {
+          "image_file": "spidey24.webp"
+        },
+        {
+          "image_file": "spidey25.webp"
+        },
+        {
+          "image_file": "spidey26.webp"
+        },
+        {
+          "image_file": "spidey27.webp"
+        },
+        {
+          "image_file": "spidey28.webp"
+        },
+        {
+          "image_file": "spidey29.webp"
+        },
+        {
+          "image_file": "spidey30.webp"
+        }
+        
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Tuziki",
+      "publisher": "Sticker Central",
+      "tray_image_file": "tu14.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "tu1.webp"
+        },
+        {
+          "image_file": "tu2.webp"
+        },
+        {
+          "image_file": "tu3.webp"
+        },
+        {
+          "image_file": "tu4.webp"
+        },
+        {
+          "image_file": "tu5.webp"
+        },
+        {
+          "image_file": "tu6.webp"
+        },
+        {
+          "image_file": "tu7.webp"
+        },
+        {
+          "image_file": "tu8.webp"
+        },
+        {
+          "image_file": "tu9.webp"
+        },
+        {
+          "image_file": "tu10.webp"
+        },
+        {
+          "image_file": "tu11.webp"
+        },
+        {
+          "image_file": "tu12.webp"
+        },
+        {
+          "image_file": "tu13.webp"
+        },
+        {
+          "image_file": "tu14.webp"
+        },
+        {
+          "image_file": "tu15.webp"
+        },
+        {
+          "image_file": "tu16.webp"
+        },
+        {
+          "image_file": "tu17.webp"
+        },
+        {
+          "image_file": "tu18.webp"
+        },
+        {
+          "image_file": "tu19.webp"
+        },
+        {
+          "image_file": "tu20.webp"
+        },
+        {
+          "image_file": "tu21.webp"
+        },
+        {
+          "image_file": "tu23.webp"
+        },
+        {
+          "image_file": "tu24.webp"
+        },
+        {
+          "image_file": "tu25.webp"
+        },
+        {
+          "image_file": "tu26.webp"
+        },
+        {
+          "image_file": "tu27.webp"
+        },
+        {
+          "image_file": "tu28.webp"
+        }
+      ]
+    },
+    
+    {
+      "identifier": "15",
+      "name": "Wolverine",
+      "publisher": "Sticker Central",
+      "tray_image_file": "wol5.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "wol1.webp"
+        },
+        {
+          "image_file": "wol2.webp"
+        },
+        {
+          "image_file": "wol3.webp"
+        },
+        {
+          "image_file": "wol4.webp"
+        },
+        {
+          "image_file": "wol5.webp"
+        },
+        {
+          "image_file": "wol6.webp"
+        },
+        {
+          "image_file": "wol7.webp"
+        },
+        {
+          "image_file": "wol8.webp"
+        },
+        {
+          "image_file": "wol9.webp"
+        },
+        {
+          "image_file": "wol10.webp"
+        },
+        {
+          "image_file": "wol11.webp"
+        },
+        {
+          "image_file": "wol12.webp"
+        },
+        {
+          "image_file": "wol13.webp"
+        },
+        {
+          "image_file": "wol14.webp"
+        },
+        {
+          "image_file": "wol15.webp"
+        },
+        {
+          "image_file": "wol16.webp"
+        },
+        {
+          "image_file": "wol17.webp"
+        },
+        {
+          "image_file": "wol18.webp"
+        },
+        {
+          "image_file": "wol19.webp"
+        },
+        {
+          "image_file": "wol20.webp"
+        },
+        {
+          "image_file": "wol21.webp"
+        },
+
+        {
+          "image_file": "wol22.webp"
+        },
+        {
+          "image_file": "wol23.webp"
+        },
+        {
+          "image_file": "wol24.webp"
+        },
+        {
+          "image_file": "wol25.webp"
+        },
+        {
+          "image_file": "wol26.webp"
+        },
+        {
+          "image_file": "wol27.webp"
+        },
+        {
+          "image_file": "wol28.webp"
+        },
+        {
+          "image_file": "wol29.webp"
+        },
+        {
+          "image_file": "wol30.webp"
+        }
+      ]
+    },
+    
+    {
+      "identifier": "16",
+      "name": "Young Couple",
+      "publisher": "Sticker Central",
+      "tray_image_file": "lov8.webp",
+      "publisher_email":"thecompanyabsolute@gmail.com",
+      "publisher_website": "https://twitter.com/CompanyAbsolute",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "lov1.webp"
+        },
+        {
+          "image_file": "lov2.webp"
+        },
+        {
+          "image_file": "lov3.webp"
+        },
+        {
+          "image_file": "lov4.webp"
+        },
+        {
+          "image_file": "lov5.webp"
+        },
+        {
+          "image_file": "lov6.webp"
+        },
+        {
+          "image_file": "lov7.webp"
+        },
+        {
+          "image_file": "lov8.webp"
+        },
+        {
+          "image_file": "lov9.webp"
+        },
+        {
+          "image_file": "lov10.webp"
+        },
+        {
+          "image_file": "lov11.webp"
+        },
+        {
+          "image_file": "lov12.webp"
+        },
+        {
+          "image_file": "lov13.webp"
+        },
+        {
+          "image_file": "lov14.webp"
+        },
+        {
+          "image_file": "lov15.webp"
+        },
+        {
+          "image_file": "lov16.webp"
+        },
+        {
+          "image_file": "lov17.webp"
+        },
+        {
+          "image_file": "lov18.webp"
+        },
+        {
+          "image_file": "lov19.webp"
+        },
+        {
+          "image_file": "lov20.webp"
+        },
+        {
+          "image_file": "lov21.webp"
+        },
+        {
+          "image_file": "lov22.webp"
+        },
+        {
+          "image_file": "lov23.webp"
+        },
+        {
+          "image_file": "lov24.webp"
+        },
+        {
+          "image_file": "lov25.webp"
+        },
+        {
+          "image_file": "lov26.webp"
+        },
+        {
+          "image_file": "lov27.webp"
+        },
+        {
+          "image_file": "lov28.webp"
+        },
+        {
+          "image_file": "lov29.webp"
+        },
+        {
+          "image_file": "lov30.webp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443801246235",
+    "firebase_url": "https://sticker-central-fa4a3.firebaseio.com",
+    "project_id": "sticker-central-fa4a3",
+    "storage_bucket": "sticker-central-fa4a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443801246235:android:2ef4df0589d2461b",
+        "android_client_info": {
+          "package_name": "com.theabsolutecompany.stickercentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443801246235-0ghaqobo0ttghp3urbatbuikkui15lqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theabsolutecompany.stickercentralz",
+            "certificate_hash": "aad4647562eb5fff44348469b4914f83552b1b55"
+          }
+        },
+        {
+          "client_id": "443801246235-vhr499fjjhlgu511ro0an4qtl7591vca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfjKdPyooABwefBO1w59wbNVlLeVdyI4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443801246235-vhr499fjjhlgu511ro0an4qtl7591vca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
