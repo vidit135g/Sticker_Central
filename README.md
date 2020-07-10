@@ -1,4 +1,4 @@
-<img src="<img src="https://raw.githubusercontent.com/vidit135g/Sticker_Central/master/app/sdsad.png" />
+<img src="https://raw.githubusercontent.com/vidit135g/Sticker_Central/master/app/sdsad.png" />
                                                                                                      
 # Sticker Central
 Minimal sticker for WhatsApp.
@@ -10,8 +10,6 @@ Minimal sticker for WhatsApp.
   <img src="https://raw.githubusercontent.com/vidit135g/Sticker_Central/master/app/Image%203.jpeg" width="150" height="300"/>
   <img src="https://raw.githubusercontent.com/vidit135g/Sticker_Central/master/app/Image%204.jpeg" width="150" height="300"/>
   <img src="https://raw.githubusercontent.com/vidit135g/Sticker_Central/master/app/Image%205.jpeg" width="150" height="300"/>
-  <img src="https://raw.githubusercontent.com/vidit135g/Sticker_Central/master/app/Image%206.jpeg" width="150" height="300"/>
-  <img src="https://raw.githubusercontent.com/vidit135g/Sticker_Central/master/app/Image%207.jpeg" width="150" height="300"/>
 </div>
 
 <br />
@@ -21,39 +19,68 @@ Simple & clean stickers for WhatsApp.
 How to use:
 
 1. Open Sticker Central and click on any WhatsApp stickers for chat. You can also search for any WhatsApp sticker
+
 2. After the sticker is downloaded, you'll see a full preview. Click on Add to WhatsApp button if you like the sticker pack
+
 3. Open WhatsApp, go to stickers and click on the new icon of the WhatsApp sticker pack that you added
+
 4. Click on any of the WhatsApp stickers to send it in the chat.
 
 
-Sticker Central Roster :
+### Sticker Central Roster :
 
 Adventure Time
+
 Avengers
+
 Bart Simpson
+
 Batman
+
 Bby Never Tell
+
 Bonnie & Clyde
+
 Cat Lying Down
+
 Code
+
 Darth Wader
+
 Dino
+
 Game Of Thrones
+
 Gloomy Cat
+
 Homer Simpson
+
 Love
+
 Mini Marvel
+
 Modern Buddha
+
 Mr. Bean
+
 Opi
+
 Polar Bear
+
 Pudding The Cry Baby
+
 Pusheen
+
 Software Developer
+
 Spidermeme
+
 Tzuki
+
 Unicorn
+
 Wolverine & many more!
+
 Enjoy, rate & share !
 
 
